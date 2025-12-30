@@ -5,18 +5,18 @@ This project presents a descriptive analysis of publicly available NHS Hospital 
 
 Using aggregated, anonymised data, the analysis focuses on population-level patterns rather than individual-level outcomes, providing insight into how admission pathways and demographic structure may relate to hospital resource utilisation.
   
-   **Aim**
+   **Aim :**
 To examine differences in mean length of hospital stay across ethnic categories and to explore the relationship between emergency admission proportion and length of stay using aggregate NHS HES data.
    
    **Data Source**
    
 NHS Hospital Episode Statistics (HES)
 
-Admitted Patient Care (APC) activity tables
+Admitted Patient Care (APC) activity tables.
 
 Reporting year: 2024–25
 
-Data accessed in aggregated, publicly available format
+Data accessed in aggregated, publicly available format.
 
    **Methods**
 
@@ -27,18 +27,10 @@ Data imported and cleaned using Python (pandas)
 Admissions grouped by ethnic category
 
 Emergency admission proportion calculated as:
-
 Emergency admissions ÷ (Emergency + Elective admissions)
 
 Descriptive statistics used to summarise:
-
-Mean length of stay
-
-Median length of stay
-
-Mean age
-
-Emergency admission proportion
+Mean length of stay, Median length of stay, Mean age, Emergency admission proportion
 
 Visualisations produced using matplotlib and seaborn
 
@@ -74,7 +66,7 @@ Mean age varied substantially between groups, which may partially explain observ
 
 **Limitations**
 
-Analysis is based on aggregated data, preventing individual-level inference
+Analysis is based on aggregated data, preventing individual-level inference.
 
 No adjustment for comorbidities, diagnosis, or socioeconomic factors
 
@@ -83,7 +75,6 @@ Observed associations are descriptive, not causal
 **Conclusion**
 
 This analysis demonstrates meaningful variation in hospital length of stay across ethnic categories within NHS Admitted Patient Care data. Groups with higher proportions of emergency 
-
 admissions tended to experience longer average hospital stays, highlighting the importance of admission pathways when interpreting population-level hospital utilisation patterns.
 
 The findings emphasise the value of routinely collected administrative data for health services research while underscoring the need for cautious interpretation when individual-level clinical detail is unavailable.
