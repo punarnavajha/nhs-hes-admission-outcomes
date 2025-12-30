@@ -1,0 +1,19 @@
+ethnic_code,ethnic_name,mean_los,median_los,mean_age,emergency_proportion
+B,Irish (White),6.074455,2.0,64.255238,0.9715948295689774
+M,Caribbean (Black or Black British),6.056014,1.0,54.53692,0.9699610995432021
+A,British (White),5.012125,1.0,58.684379,0.9700510587479221
+P,Any other Black background,4.8136,1.0,42.781032,0.9699144977919759
+Z,Not stated,4.767854,1.0,57.324999,0.9528091901512656
+99/X,Not known,4.469668,1.0,54.454767,0.9519986347689425
+G,Any other Mixed background,4.283453,1.0,31.169999,0.9692606660189029
+N,African (Black or Black British),3.985895,1.0,35.4814,0.9691464012895087
+S,Any other ethnic group,3.872993,1.0,43.95463,0.9681119001400594
+C,Any other White background,3.831282,1.0,45.44814,0.9684659907741927
+R,Chinese (other ethnic group),3.799012,1.0,48.89521,0.9644977733795151
+L,Any other Asian background,3.365187,1.0,41.036419,0.9693976236529428
+D,White and Black Caribbean (Mixed),3.356395,1.0,31.205713,0.9654184330350134
+K,Bangladeshi (Asian or Asian British),3.339367,1.0,35.023805,0.9691546974334825
+H,Indian (Asian or Asian British),3.329874,1.0,45.831655,0.9689754827843595
+E,White and Black African (Mixed),3.129489,1.0,30.435234,0.9632899951331433
+J,Pakistani (Asian or Asian British),2.868568,1.0,36.370365,0.9650367459797715
+F,White and Asian (Mixed),2.844172,1.0,28.763836,0.9581747093322358
