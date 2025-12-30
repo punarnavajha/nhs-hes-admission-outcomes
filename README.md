@@ -13,9 +13,7 @@ Using aggregated, anonymised administrative data, the analysis focuses on **popu
 The aim of this analysis was to:
 
 - Examine differences in **mean length of hospital stay** across ethnic categories  
-- Explore the relationship between **emergency admission proportion** and **length of stay**  
-
-using aggregate NHS HES Admitted Patient Care data.
+- Explore the relationship between **emergency admission proportion** and **length of stay** using aggregate NHS HES Admitted Patient Care data.
 
 ---
 
